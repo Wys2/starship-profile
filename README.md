@@ -1,1 +1,1 @@
-"# starship-profile" 
+# starship-profile
